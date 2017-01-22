@@ -1,4 +1,4 @@
-BaseUrl= "http://u.initd.cz/"
+BaseUrl= "https://u.initd.cz/"
 LanguageCode= "cs-CZ"
 Title= "µInitd.cz"
 paginate = 5
